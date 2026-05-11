@@ -46,5 +46,5 @@ You can visit the live website by clicking [here](https://e-commerce-website-nin
 
 If you have any questions, feedback, or suggestions, feel free to reach out:
 
-- **Author**: [Bhavan-R](https://github.com/Bhavan-R/INTERNPE-E-COMMERCE-WEB.git)
+- **Author**: [@BhavanR](https://github.com/BhavanR)
 - **LinkedIn**: [Bhavan R](www.linkedin.com/in/bhavanr)
