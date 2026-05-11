@@ -15,7 +15,6 @@ The E-commerce website is a full-stack application built using React with Vite a
 - [Technologies Used](#technologies-used)
 - [Set Up ](#set-up)
 - [Screenshots](#screenshots)
-- [Contact](#contact)
 
 
 
@@ -54,7 +53,8 @@ To set up and run the project locally, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-   cd E-Commerce-Website
+   cd INTERNPE-E-COMMERCE-WEB
+
    ```
 
 3. Install the project dependencies:
@@ -110,11 +110,3 @@ To set up and run the project locally, follow these steps:
   <img  src="public/assets/Screenshots/Account.jpg" alt="Account">
 
 
-
-
-## Contact
-
-- [Author](https://github.com/MMansy19)
-- [Website](https://mahmoud-mansy-portfolio.netlify.app/)
-- [Email](mailto:mahmoud2abdalfattah@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-mansy-a189a5232)
